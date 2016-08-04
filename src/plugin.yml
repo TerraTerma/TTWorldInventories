@@ -1,0 +1,5 @@
+name: TTWorldInventories
+version: 1.0
+main: TTWorldInventories.TTWorldInventoriesPlugin
+depend: [TTCore]
+
